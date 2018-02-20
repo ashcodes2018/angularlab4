@@ -16,6 +16,15 @@ body{
   right:10px;
 
 }
+#welcomepage{
+  margin:0 auto;
+  background-color: #eee;
+  width:503px;
+  height:200px;
+  padding-left: 23px;
+  margin-top: 226px;
+
+}
 #buttonstyle{
   background: #ff69b4;
   width:96%;

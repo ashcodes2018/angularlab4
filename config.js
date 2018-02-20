@@ -9,5 +9,8 @@ angular
       .when("/welcomePage",{
         template:"<welcome-page></welcome-page>"
       })
+      .otherwise("/welcomePage",{
+       template:"<welcome-page></welcome-page>"
+     })
   });
 })();

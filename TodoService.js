@@ -1,6 +1,6 @@
 (function() {
   function TodoService(){
-    var todoList=["apple","oranges"];
+    var todoList=[];
     return {
       getData:getData,
       setData:setData
